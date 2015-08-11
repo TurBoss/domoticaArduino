@@ -1,7 +1,7 @@
 #include <Wire.h>
 
 int nodoReles=2;
-int nodoTv=3;
+
 String inputString = "";         // a string to hold incoming data
 boolean stringComplete = false;  // whether the string is complete
 char command[10];
